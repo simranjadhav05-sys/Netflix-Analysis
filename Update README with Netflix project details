@@ -1,0 +1,37 @@
+# Netflix Data Analysis 📺
+
+## 📌 Project Overview
+Analyzed Netflix dataset to uncover insights about content trends, genres, ratings, and release patterns.
+
+## 🎯 Objectives..
+- Understand content distribution (Movies vs TV Shows)
+- Analyze most popular genres
+- Identify trends in content release over years
+- Study country-wise content production
+
+## 🛠 Tools & Technologies..
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Jupyter Notebook
+- SQL (optional)
+- Excel
+
+## 📊 Key Insights
+- Movies dominate Netflix content compared to TV Shows
+- Drama and Comedy are the most popular genres
+- Significant growth in content after 2015
+- USA produces the highest number of titles
+
+## 📁 Project Structure
+- dataset/
+- notebook/
+- visuals/
+- README.md
+
+## 📷 Sample Visualizations
+(Add your graphs/screenshots here)
+
+## 🚀 Outcome
+Generated meaningful insights to understand Netflix content strategy and user preferences.
+
+## 🔗 Dataset Source
+Kaggle Netflix Dataset
